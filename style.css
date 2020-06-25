@@ -1,0 +1,25 @@
+li { 
+	color: red;
+	outline-color: black; 
+}
+
+a {
+	flood-color: pink;
+	color: pink;
+}
+
+body {
+	background-color: darkgrey;
+}
+
+#foto {
+	width: 20%;
+	height: 15%;
+}
+
+#inschrijven {
+	width: 200px;
+	color: white;
+	background-color: black;
+	border-radius: 80px;
+}
